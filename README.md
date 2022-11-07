@@ -6,7 +6,7 @@ Também vou subir testes de atividades que faço fora da rotina de estudos da fa
 
 
 <section align="center"> 
-  <img src="https://i.pinimg.com/originals/1e/d2/f2/1ed2f24a0444ee7a3f59f6aaa5f9d092.gif" height="100" width="100" alt="kawaii habbit">
+  <img src="https://i.pinimg.com/originals/1e/d2/f2/1ed2f24a0444ee7a3f59f6aaa5f9d092.gif" height="300" width="300" alt="kawaii habbit">
 </section>
 
 ---
