@@ -1,0 +1,3 @@
+Criar um formulário de cadastro onde todos os campos são obrigatórios.
+Ao clicar no botão enviar, verificar se todas as respostas estão corretas e se as senhas são iguais.
+Se as senhas forem diferentes apresentar uma mensagem para o usuário na cor vermelha.
