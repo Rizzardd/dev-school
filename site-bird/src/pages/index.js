@@ -1,4 +1,5 @@
 import Header from "../components/common/Header";
+import SecondSection from "../components/common/SecondSection";
 
 
 export default function Home() {
@@ -6,6 +7,7 @@ export default function Home() {
     <>
      <main className="flex flex-col">
       <Header/>
+      <SecondSection/>
      </main>
     </>
   )

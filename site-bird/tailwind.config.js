@@ -9,7 +9,17 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    fontFamily: {
+      'display': ['Philosopher'],
+      'body': ['"sans-serif"']
+    },
+    extend: {
+      colors: {
+        'olive-color': '#A6E6A7',
+        'header-color': '#8EE695',
+        'olive-body': '#D3E4CE'        
+      },
+    },
   },
   plugins: [],
 }
