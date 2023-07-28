@@ -7,7 +7,6 @@ function triangulo() {
     } else if (
       (LadoA == LadoB) ^
       (LadoB == LadoC) ^
-      (LadoC == LadoB) ^
       (LadoA == LadoC)
     ) {
       document.getElementById("result").innerHTML = "Isosceles";
